@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Poseidon: God of the Seas</title>
+    <link rel="stylesheet" href="../../styles.css"> <!-- Link to the external CSS file -->
+    <style>
+        /* Poseidon-themed color palette */
+        body {
+            background-color: #0A3D62; /* Deep ocean blue for the main background */
+            color: #E0F7FA; /* Light seafoam for main text */
+        }
+
+        /* Header and Navigation */
+        header h1, header p, nav a {
+            color: #00BFFF; /* Aqua blue for headers and nav links */
+        }
+
+        nav a:hover {
+            color: #4682B4; /* Steel blue for hover effect on links */
+        }
+
+        /* Section Styling */
+        section {
+            background-color: #1F4E79; /* Dark sea blue for content sections */
+            border: 1px solid #5DADE2; /* Light blue for section borders */
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+
+        h2 {
+            color: #00BFFF; /* Aqua blue for sub-headers */
+        }
+
+        h3 {
+            color: #A9D0F5; /* Pale blue for tertiary headers */
+        }
+
+        ul li {
+            color: #E0F7FA; /* Light seafoam for list items */
+        }
+
+        /* Buttons and Accents */
+        button {
+            background-color: #00BFFF; /* Aqua blue for buttons */
+            color: #0A3D62; /* Deep blue text on buttons */
+            border: none;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #4682B4; /* Steel blue for hover effect on buttons */
+        }
+
+        /* Footer */
+        footer {
+            background-color: #00BFFF; /* Aqua blue background for footer */
+            color: #1F4E79; /* Dark sea blue text for footer */
+            padding: 10px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Poseidon: God of the Seas</h1>
+        <p>The Mighty Wielder of the Trident</p>
+    </header>
+
+    <!-- Navigation Bar -->
+    <nav>
+        <a href="../../index.html">Home</a>
+        <a href="#about">About</a>
+        <a href="#gods">Gods</a>
+        <a href="#heroes">Heroes</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <!-- Main Content Area -->
+    <main>
+        <section id="home">
+            <h2>Piercing the Depths: Poseidon</h2>
+            <p>The Master of Oceans and Earthquakes</p>
+        </section>
+
+        <section id="Origin of Poseidon">
+            <h2>Origin of Poseidon</h2>
+            <h3>1.1 Birth and Early Life</h3>
+            <p>Poseidon, like his brothers Zeus and Hades, was one of the Olympian gods born to Cronus and Rhea. Like his siblings, he was swallowed by Cronus at birth and later freed by Zeus. Poseidon was destined to rule the seas, with dominion over all water bodies.</p>
+            <h3>1.2 Division of the World</h3>
+            <p>After the defeat of the Titans, Poseidon, Zeus, and Hades divided the realms of the cosmos. Poseidon claimed the seas, where he ruled with absolute authority, commanding the oceans, storms, and earthquakes. Though his realm was separate from the heavens and the underworld, Poseidon was a powerful and sometimes tempestuous god.</p>
+        </section>
+
+        <section id="2. Role in Greek Mythology">
+            <h2>2. Role in Greek Mythology</h2>
+            <h3>2.1 God of the Sea</h3>
+            <p>Poseidon was revered as the god of the seas, rivers, and all bodies of water. Sailors prayed to him for safe voyages, while his temper was known to cause shipwrecks, tsunamis, and devastating floods. His trident was said to be capable of stirring the oceans or calming them at will.</p>
+            <h3>2.2 Earth-Shaker</h3>
+            <p>In addition to ruling the seas, Poseidon was also the god of earthquakes, known as the "Earth-Shaker." When angry, he would strike the ground with his trident, causing tremors and massive destruction. This dual nature as both sea god and Earth-shaker made Poseidon one of the most feared deities.</p>
+            <h3>2.3 Poseidon's Relationships</h3>
+            <p>Poseidon had many relationships with both goddesses and mortals. His most famous consort was Amphitrite, a sea nymph, with whom he fathered Triton, a merman. He also had numerous mortal children, including Theseus, the legendary hero of Athens.</p>
+        </section>
+
+        <section id="3. Iconography and Symbols">
+            <h2>3. Iconography and Symbols</h2>
+            <p>Poseidon is often depicted as a powerful, bearded figure wielding a trident. His symbols include:
+
+                <li>Trident: The three-pronged spear that Poseidon used to control the seas and cause earthquakes.</li>
+                <li>Horses: Poseidon was also the god of horses and often associated with the majestic creatures.</li>
+                <li>Dolphins: Dolphins were sacred to Poseidon and frequently appeared in his iconography as symbols of his connection to the sea.</li>
+                <li>Sea creatures: Poseidon was often depicted with sea creatures like fish, octopuses, and hippocampi (mythical sea-horses).</li></p>
+        </section>
+
+        <section id="4. Cult and Worship of Poseidon">
+            <h2>4. Cult and Worship of Poseidon</h2>
+            <h3>4.1 Major Temples and Sanctuaries</h3>
+            <p>Poseidon was widely worshipped throughout Greece, especially in coastal regions and islands. Major temples and sanctuaries dedicated to Poseidon include:
+
+                <li>The Temple of Poseidon at Sounion: A majestic temple on a cliff overlooking the Aegean Sea, it served as a place of worship for sailors seeking safe passage.</li>
+                <li>The Isthmus of Corinth: Here, Poseidon was honored with the Isthmian Games, a festival that celebrated athleticism and honored the sea god.</li></p>
+            <h3>4.2 Festivals and Rituals</h3>
+            <p>Poseidon was honored with many festivals, especially in regions reliant on the sea for trade and livelihood. Offerings were often made to him before sea voyages, and sacrifices were held to ensure calm waters and protection from storms.</p>
+        </section>
+
+        <section id="5. Poseidon in Myth">
+            <h2>5. Poseidon in Myth</h2>
+            <p>Poseidon played a central role in many Greek myths. Some of the most famous include:
+
+                <li>The Contest for Athens: Poseidon competed with Athena to become the patron deity of Athens. Although Poseidon struck the ground and produced a spring of saltwater, Athena offered the olive tree, and the city chose her as their patron.</li>
+                <li>The Myth of Atlantis: Poseidon was said to have created the island of Atlantis, where his descendants ruled until the island was swallowed by the sea.</li>
+                <li>The Odyssey: In Homer's epic, Poseidon was a key antagonist, making Odysseus's journey home difficult after the hero blinded his son, the Cyclops Polyphemus.</li></p>
+        </section>
+
+        <section id="6. Poseidon in Roman Mythology">
+            <h2>6. Poseidon in Roman Mythology</h2>
+            <p>In Roman mythology, Poseidon was known as Neptune. As the Roman counterpart to the Greek sea god, Neptune retained Poseidon's attributes of ruling over water and causing earthquakes. His importance in Roman religion grew, particularly in naval contexts.</p>
+        </section>
+
+        <section id="7. Modern Representations of Poseidon">
+            <h2>7. Modern Representations of Poseidon</h2>
+            <p>Poseidon continues to be a prominent figure in modern culture, representing the power and mystery of the seas. He has been depicted as both a benevolent and vengeful figure in literature, art, and film.</p>
+            <h3>7.1 Literature</h3>
+            <p>Percy Jackson & the Olympians by Rick Riordan features Poseidon as the father of the protagonist, Percy Jackson. Poseidon is depicted as a powerful yet distant figure, representing the strength and unpredictability of the ocean.</p>
+            <h3>7.2 Film and Television</h3>
+            <p>Poseidon appears in various adaptations of Greek myths, including the films "Clash of the Titans" and "Percy Jackson." He is often portrayed as a mighty, trident-wielding god, commanding the seas and battling forces of nature and man.</p>
+        </section>
+    </main>
+
+    <!-- Footer Section -->
+    <footer>
+        <p>Poseidon: Ruler of the Seas</p>
+    </footer>
+</body>
+</html>
